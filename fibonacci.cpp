@@ -1,7 +1,7 @@
 /*
 Author: Carrie
 Course: CSCI-135
-Instructor: Genady Maryash
+Instructor: Michael Zamansky
 Assignment: Computing Fibonacci Numbers with Loops and Arrays 0, 1, 1, 2, 3, 5, 8, 13…, Lab2D
 
 To make a C++ program to keep track of the previous numbers so that we can compute the new ones, we can use an array of integers
