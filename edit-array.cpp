@@ -1,5 +1,5 @@
 /*
-Author: Carrie
+Author: Carrie Yu
 Course: CSCI-135
 Instructor: Michael Zamansky
 Assignment: Using arrays to store, update, and retrieve numbers, Lab2C

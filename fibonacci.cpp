@@ -1,5 +1,5 @@
 /*
-Author: Carrie
+Author: Carrie Yu
 Course: CSCI-135
 Instructor: Michael Zamansky
 Assignment: Computing Fibonacci Numbers with Loops and Arrays 0, 1, 1, 2, 3, 5, 8, 13…, Lab2D

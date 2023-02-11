@@ -1,5 +1,5 @@
 /*
-Author: Carrie
+Author: Carrie Yu
 Course: CSCI-135
 Instructor: Michael Zamansky
 Assignment: Print all integers from the requested interval, Lab2B

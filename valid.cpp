@@ -1,5 +1,5 @@
 /*
-Author: Carrie
+Author: Carrie Yu
 Course: CSCI-135
 Instructor: Michael Zamansky
 Assignment: Input Validation, Lab2A
